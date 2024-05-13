@@ -17,13 +17,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        println("Estos es un ejemplo")
-        println("Estos es un ejemplo")
-        println("Estos es un ejemplo")
-        println("Estos es un ejemplo")
-        println("Estos es un ejemplo")
-        println("Estos es un ejemplo")
-        println("Estos es un ejemplo")
-        println("Estos es un ejemplo")
+
     }
 }
