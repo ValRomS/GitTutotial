@@ -18,5 +18,12 @@ class MainActivity : AppCompatActivity() {
         }
 
         println("Estos es un ejemplo")
+        println("Estos es un ejemplo")
+        println("Estos es un ejemplo")
+        println("Estos es un ejemplo")
+        println("Estos es un ejemplo")
+        println("Estos es un ejemplo")
+        println("Estos es un ejemplo")
+        println("Estos es un ejemplo")
     }
 }
